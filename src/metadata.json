@@ -1,0 +1,5 @@
+{
+  "name": "VMA to Meshtastic Bridge",
+  "description": "A dashboard to monitor Sveriges Radio VMA alerts and broadcast them to a local Meshtastic LoRa radio network.",
+  "requestFramePermissions": []
+}
